@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/data_finance/static/css/main.97bd1294.css",
-    "main.js": "/data_finance/static/js/main.b6b45514.js",
+    "main.js": "/data_finance/static/js/main.cd13b7d0.js",
     "static/media/laptop.jpg": "/data_finance/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/data_finance/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/data_finance/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/data_finance/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/data_finance/index.html",
     "main.97bd1294.css.map": "/data_finance/static/css/main.97bd1294.css.map",
-    "main.b6b45514.js.map": "/data_finance/static/js/main.b6b45514.js.map"
+    "main.cd13b7d0.js.map": "/data_finance/static/js/main.cd13b7d0.js.map"
   },
   "entrypoints": [
     "static/css/main.97bd1294.css",
-    "static/js/main.b6b45514.js"
+    "static/js/main.cd13b7d0.js"
   ]
 }
